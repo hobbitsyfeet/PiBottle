@@ -1,6 +1,6 @@
 import sys
-from PyQt5.QtWidgets import (QWidget, QLabel, QLineEdit,
-                             QTextEdit, QGridLayout, QApplication)
+from PyQt5.QtWidgets import (QWidget, QLabel, QLineEdit, QTextEdit, QGridLayout, QApplication)
+
 from PyQt5 import QtWidgets, QtGui
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
